@@ -61,7 +61,7 @@ newArray[1] = 'w'
 
 
 
-// Оператор Spread
+// ######### Оператор Spread ############
 
 // const video = ['youtube', 'vimeo', 'rutube'],
 //         blogs = ['wordpress', 'livejournal', 'maxim'],
